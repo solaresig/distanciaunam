@@ -1,0 +1,1 @@
+Progress of optimization: 100 %; Elapsed: 1.3178891027636 hours
